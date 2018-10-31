@@ -7,7 +7,7 @@ display_height = 800
 
 # Displaying the display screen with game title
 gameDisplay = pygame.display.set_mode((display_width,display_height))
-pygame.display.set_caption('SUMA RACING')
+pygame.display.set_caption('SUMA RACING GAME')
 
 # Declaration of colours used
 white = (255,255,255)
